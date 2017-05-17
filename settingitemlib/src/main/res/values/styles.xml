@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Community_Setting_Layout">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:background">#ffffff</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+</resources>
